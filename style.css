@@ -1,0 +1,47 @@
+section {
+ box-shadow: 6px 6px 11px 4px rgba(0,0,0,0.5);
+-webkit-box-shadow: 6px 6px 11px 4px rgba(0,0,0,0.5);
+-moz-box-shadow: 6px 6px 11px 4px rgba(0,0,0,0.5);
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ max-width: 500px;
+ margin-top: 100px;
+ background-color: white;
+ padding: 15px;
+ border: 2px solid black;
+ border-radius: 5px;
+}
+
+section h1 {
+ font-size: 20px;
+}
+
+header {
+ background-image: url('https://cdn.vox-cdn.com/thumbor/j4HaCYbq1c2b4nX7rX9gdksjtJc=/312x0:1746x956/1200x800/filters:focal(312x0:1746x956)/cdn.vox-cdn.com/uploads/chorus_image/image/37251612/pokemon-list.0.0.png');
+ background-size: cover;
+ height: 80px;
+}
+
+body{
+ background-color: #8A71C9;
+ font-family: Open sans, sans-serif;
+}
+
+div {
+ background-color: #bac3d6;
+ padding: 15px;
+ border: 1px solid black;
+ border-radius: 5px;
+}
+
+img {
+ width: 150px;
+ heigth: 150px;
+ border-radius: 100%;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ transform: translateY(-50%);
+ border: 8px solid white;
+}
